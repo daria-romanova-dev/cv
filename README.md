@@ -3,7 +3,7 @@
 Welcome to my CV repository.
 
 ## Resume
-* **[View Resume (PDF)](./РезюмеДарья.pdf)** — click to open the document.
+* **[View Resume (PDF)](./Резюме.pdf)** — click to open the document.
 
 ## Contacts
 * **Email:** DariaRomanova19@proton.me
